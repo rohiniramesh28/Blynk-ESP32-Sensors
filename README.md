@@ -18,3 +18,6 @@ This project uses an ESP32 with a DHT11 sensor, an RTC module, and a soil moistu
 3. Enter your WiFi credentials in the `ssid` and `pass` variables.
 4. Get your Blynk authentication token and replace `"YOUR_BLYNK_AUTH_TOKEN"`.
 5. Upload the code to your ESP32 using Arduino IDE or PlatformIO.
+
+## Manager URl:
+https://dl.espressif.com/dl/package_esp32_index.json
