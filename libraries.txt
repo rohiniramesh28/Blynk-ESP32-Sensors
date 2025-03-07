@@ -1,0 +1,3 @@
+DHT sensor library by Adafruit
+Blynk Library for ESP32
+RTClib by Adafruit
